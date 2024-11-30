@@ -1,0 +1,3 @@
+fastapi==0.100.0  # Remplacez par la version correcte si nécessaire
+uvicorn[standard]==0.23.1  # Inclut les dépendances pour ASGI
+azure-storage-blob==12.18.2  # SDK pour Azure Blob Storage
